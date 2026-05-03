@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=drix&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=full-stack%20sorcerer%20%7C%20building%20in%20the%20dark&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=turning+caffeine+into+commits+%E2%98%95;fear+the+algorithm+%F0%9F%96%A4;i%27ve+seen+things+in+binary...;full-stack+sorcerer+%F0%9F%94%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=turning+caffeine+into+commits+%E2%98%95;fear+the+algorithm+%F0%9F%96%A4;i%27ve+seen+things+in+binary...;full-stack+sorcerer+%F0%9F%94%AE)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -14,8 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c7e630c47b3b3c0a3b8fa1726f85bc9db4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
-
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 ### &nbsp;`> whoami`
 
 ```
@@ -55,7 +54,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=9drix9&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&icon_color=9b59b6&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=9drix9&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&icon_color=9b59b6"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9drix9&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9"/>
 
 </div>
