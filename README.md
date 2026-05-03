@@ -72,8 +72,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-9drix9.vercel.app/api/spotify)](https://open.spotify.com)
-
+[![Spotify](https://img.shields.io/badge/Now%20Playing-Brennan%20Savage%20%E2%80%93%20To%20The%20Moon-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5GorFaKkSsqxA3OcFzxNin)
 </div>
 
 ---
