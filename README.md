@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Now%20Playing-Brennan%20Savage%20%E2%80%93%20To%20The%20Moon-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5GorFaKkSsqxA3OcFzxNin)
+[![Spotify](https://img.shields.io/badge/Now%20Playing-Brennan%20Savage%20%E2%80%93%20To%20The%20Moon-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7chkzLIvIBSEfIsb8J7jS5?si=6765fb5a26374c94)
 </div>
 
 ---
