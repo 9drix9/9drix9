@@ -73,7 +73,7 @@ status  : always online ⚡
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-currently%20vibing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9drix9)
+[![Spotify](https://img.shields.io/badge/Spotify-currently%20vibing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7chkzLIvIBSEfIsb8J7jS5?si=50cf8d0454794281)
 
 </div>
 
