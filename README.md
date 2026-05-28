@@ -55,9 +55,9 @@ status  : always online ⚡
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=9drix9&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&icon_color=9b59b6&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-eight-pearl-51.vercel.app/api?username=9drix9&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&icon_color=9b59b6&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9drix9&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-eight-pearl-51.vercel.app/api/top-langs/?username=9drix9&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
