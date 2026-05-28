@@ -98,7 +98,6 @@ print(random.choice(facts)) # run at your own risk
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=9drix9&style=for-the-badge&color=9b59b6&label=VISITORS)
 
